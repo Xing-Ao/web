@@ -1,0 +1,4 @@
+E:\Projects\Trunk\Web\XingAo.Software.Web.Manager\bin\XingAo.Software.Web.Manager.dll
+E:\Projects\Trunk\Web\XingAo.Software.Web.Manager\bin\XingAo.Software.Web.Manager.pdb
+E:\Projects\Trunk\Web\XingAo.Software.Web.Manager\obj\Debug\XingAo.Software.Web.Manager.dll
+E:\Projects\Trunk\Web\XingAo.Software.Web.Manager\obj\Debug\XingAo.Software.Web.Manager.pdb

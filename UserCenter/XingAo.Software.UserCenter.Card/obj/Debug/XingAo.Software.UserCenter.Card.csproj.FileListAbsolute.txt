@@ -1,0 +1,4 @@
+E:\Projects\Trunk\UserCenter\XingAo.Software.UserCenter.Card\bin\Debug\XingAo.Software.UserCenter.Card.dll
+E:\Projects\Trunk\UserCenter\XingAo.Software.UserCenter.Card\bin\Debug\XingAo.Software.UserCenter.Card.pdb
+E:\Projects\Trunk\UserCenter\XingAo.Software.UserCenter.Card\obj\Debug\XingAo.Software.UserCenter.Card.dll
+E:\Projects\Trunk\UserCenter\XingAo.Software.UserCenter.Card\obj\Debug\XingAo.Software.UserCenter.Card.pdb

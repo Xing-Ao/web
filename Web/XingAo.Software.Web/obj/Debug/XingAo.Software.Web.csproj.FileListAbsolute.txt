@@ -1,0 +1,16 @@
+E:\Projects\Trunk\Web\XingAo.Software.Web\bin\XingAo.Software.Web.dll
+E:\Projects\Trunk\Web\XingAo.Software.Web\bin\XingAo.Software.Web.pdb
+E:\Projects\Trunk\Web\XingAo.Software.Web\bin\XingAo.Networks.CMS.Template.Engine.dll
+E:\Projects\Trunk\Web\XingAo.Software.Web\bin\XingAo.Networks.CMS.Model.dll
+E:\Projects\Trunk\Web\XingAo.Software.Web\bin\XingAo.Core.dll
+E:\Projects\Trunk\Web\XingAo.Software.Web\bin\XingAo.Networks.CMS.Template.Label.dll
+E:\Projects\Trunk\Web\XingAo.Software.Web\bin\XingAo.Core.Data.dll
+E:\Projects\Trunk\Web\XingAo.Software.Web\bin\EntityFramework.dll
+E:\Projects\Trunk\Web\XingAo.Software.Web\bin\XingAo.Networks.CMS.Template.Engine.pdb
+E:\Projects\Trunk\Web\XingAo.Software.Web\bin\XingAo.Networks.CMS.Model.pdb
+E:\Projects\Trunk\Web\XingAo.Software.Web\bin\XingAo.Core.pdb
+E:\Projects\Trunk\Web\XingAo.Software.Web\bin\XingAo.Networks.CMS.Template.Label.pdb
+E:\Projects\Trunk\Web\XingAo.Software.Web\bin\XingAo.Core.Data.pdb
+E:\Projects\Trunk\Web\XingAo.Software.Web\obj\Debug\XingAo.Software.Web.csprojResolveAssemblyReference.cache
+E:\Projects\Trunk\Web\XingAo.Software.Web\obj\Debug\XingAo.Software.Web.dll
+E:\Projects\Trunk\Web\XingAo.Software.Web\obj\Debug\XingAo.Software.Web.pdb

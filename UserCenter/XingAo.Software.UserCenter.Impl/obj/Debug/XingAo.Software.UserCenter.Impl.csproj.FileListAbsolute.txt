@@ -1,0 +1,4 @@
+E:\Projects\Trunk\UserCenter\XingAo.Software.UserCenter.Impl\bin\Debug\XingAo.Software.UserCenter.Impl.dll
+E:\Projects\Trunk\UserCenter\XingAo.Software.UserCenter.Impl\bin\Debug\XingAo.Software.UserCenter.Impl.pdb
+E:\Projects\Trunk\UserCenter\XingAo.Software.UserCenter.Impl\obj\Debug\XingAo.Software.UserCenter.Impl.dll
+E:\Projects\Trunk\UserCenter\XingAo.Software.UserCenter.Impl\obj\Debug\XingAo.Software.UserCenter.Impl.pdb
